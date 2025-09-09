@@ -1,4 +1,6 @@
 <img width="789" height="579" alt="image" src="https://github.com/user-attachments/assets/0962b7b5-cdb1-4e2e-9ef7-1a760731e332" />
+<img width="795" height="871" alt="image" src="https://github.com/user-attachments/assets/cc78aed2-03d7-4a05-b1cd-cfc8617861e3" />
+
 
 # 🔍 EasyNmap - Simple Nmap Wrapper
 
